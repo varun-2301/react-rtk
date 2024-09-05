@@ -1,0 +1,1 @@
+export { LoggedUserReducer as loggedUserSlice, resetLoggedUserData } from './loggedUser'
